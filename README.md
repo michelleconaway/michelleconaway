@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michelleconaway
 - 👀 I’m interested in learning, growing, finding work.
-- 🌱 I’m currently learning Introduction to Programming with Python.
-- 🌱 Just finished Introduction to Programming with Scratch.
+- 🌱 I’m currently learning CS50x 2024, Introduction to Computer Science.
+- 🌱 Just finished a certification in Agile Project Management.
 - 💞️ I’m looking to collaborate on ... TBD.
 - 📫 How to reach me ... LinkedIn.
 - 😄 Pronouns: she, her, hers
